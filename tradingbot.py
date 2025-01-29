@@ -11,7 +11,7 @@ CONFIG = {
     "DB": {
         "dbname": "dexscreener",
         "user": "admin",
-        "password": "your_password",
+        "password": "Artist2025!!",
         "host": "localhost",
         "port": "5432"
     },
